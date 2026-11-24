@@ -1,0 +1,8 @@
+{
+  "Name": "The Beast",
+  "Author": "Vess",
+  "Version": "0.1.0",
+  "Description": "A terrifying creature stalks the residents of Pelican Town.",
+  "UniqueID": "Vess.TheBeast",
+  "EntryDll": "TheBeast.dll"
+}
